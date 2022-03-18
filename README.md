@@ -11,9 +11,7 @@
 
 <table class="center">
 <tr> 
-<td><a href="https://twitter.com/grienz_">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"width="80" height="25">
-</a></td>
+
 <td><a href="https://stackoverflow.com/users/18206244/grienz">
 <img src="https://img.shields.io/badge/StackOverFlow-important?style=for-the-badge&logo=stackoverflow&logoColor=white"width="85" height="25">
 </a></td>
@@ -34,11 +32,17 @@
 <td><a href="https://www.buymeacoffee.com/grienz">
 <img src="https://img.shields.io/badge/buyMeCoffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white"width="80" height="25">
 </a></td>
+</tr>
+<tr>
 <td><a href="https://dev.to/grienz">
 <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev-to&logoColor=white"width="70" height="25">
 </a></td>
+<td><a href="https://twitter.com/grienz_">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"width="80" height="25">
+</a></td>
 <td><a href="mailto:grienzinfo@protonmail.com">
 <img src="https://img.shields.io/badge/mail-100000?style=for-the-badge&logo=protonmail&logoColor=white"width="70" height="25"></a></td>
+</tr>
 </tr>
 </table>
 
