@@ -11,9 +11,6 @@
 
 <table class="center">
 <tr> 
-</tr>
-
-<tr> 
 <td><a href="https://twitter.com/grienz_">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"width="80" height="25">
 </a></td>
@@ -26,6 +23,7 @@
 <td><a href="https://www.fiverr.com/grienz">
 <img src="https://img.shields.io/badge/Fiverr-green?style=for-the-badge&logo=fiverr&logoColor=white"width="70" height="25">
 </a></td>
+</tr>
 <tr>
 <td><a href="https://codesandbox.io/u/grienz">
 <img src="https://img.shields.io/badge/CodeSandBox-100000?style=for-the-badge&logo=codesandbox&logoColor=white"width="85" height="25">
@@ -42,10 +40,8 @@
 <td><a href="mailto:grienzinfo@protonmail.com">
 <img src="https://img.shields.io/badge/mail-100000?style=for-the-badge&logo=protonmail&logoColor=white"width="70" height="25"></a></td>
 </tr>
-</tr>
 </table>
 
-<br></br>
 
 ### I improve my skills ⬇ 👨🏻‍💻
 
@@ -53,11 +49,9 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="25" height="25"/>
-<br></br>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="25" height="25"/>
-<br></br>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="25" height="25" />
