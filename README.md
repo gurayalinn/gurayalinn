@@ -2,7 +2,7 @@
 
 <img align="right" alt="avatar"  width="350" height="350" src="/assets/image.jpg">
 
-### Hi!, I'm Guray / "Grienz" 👋 `< code />`
+### Hi!, I'm Guray / "Grienz" 👋
 
 ![](https://img.shields.io/badge/Web%20Developer-%20%2F%20Freelancer%20%2F%20Cloud%20%2F%20React%20%2F%20NodeJS%20%2F%20Javascript%20%2F%20-aqua)
 
@@ -12,8 +12,7 @@
 <table class="center">
 <tr> 
 </tr>
-<td><a href="mailto:grienzinfo@protonmail.com">
-<img src="https://img.shields.io/badge/mail-100000?style=for-the-badge&logo=protonmail&logoColor=white"width="70" height="25"></a></td>
+
 <tr> 
 <td><a href="https://twitter.com/grienz_">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"width="80" height="25">
@@ -29,7 +28,7 @@
 </a></td>
 <tr>
 <td><a href="https://codesandbox.io/u/grienz">
-<img src="https://img.shields.io/badge/CodeSandBox-100000?style=for-the-badge&logo=codesandbox&logoColor=white"width="80" height="25">
+<img src="https://img.shields.io/badge/CodeSandBox-100000?style=for-the-badge&logo=codesandbox&logoColor=white"width="85" height="25">
  </a></td> 
 <td><a href="https://codepen.io/grienz">
 <img src="https://img.shields.io/badge/CodePen-100000?style=for-the-badge&logo=codepen&logoColor=white"width="80" height="25">
@@ -40,6 +39,8 @@
 <td><a href="https://dev.to/grienz">
 <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev-to&logoColor=white"width="70" height="25">
 </a></td>
+<td><a href="mailto:grienzinfo@protonmail.com">
+<img src="https://img.shields.io/badge/mail-100000?style=for-the-badge&logo=protonmail&logoColor=white"width="70" height="25"></a></td>
 </tr>
 </tr>
 </table>
@@ -60,7 +61,7 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="25" height="25" />
-
+<br></br>
 <details>
 <summary>:bulb:  GitHub Stats</summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=grienz&show_icons=true&theme=synthwave">
