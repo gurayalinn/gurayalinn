@@ -8,12 +8,10 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=grienz.grienz)](#)
 
-
 <table class="center">
 <tr> 
-
 <td><a href="https://stackoverflow.com/users/18206244/grienz">
-<img src="https://img.shields.io/badge/StackOverFlow-important?style=for-the-badge&logo=stackoverflow&logoColor=white"width="85" height="25">
+<img src="https://img.shields.io/badge/StackOverFlow-important?style=for-the-badge&logo=stackoverflow&logoColor=white"width="90" height="25">
 </a></td>
 <td><a href="https://www.linkedin.com/in/g%C3%BCray-a-302411232/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"width="80" height="25">
@@ -24,7 +22,7 @@
 </tr>
 <tr>
 <td><a href="https://codesandbox.io/u/grienz">
-<img src="https://img.shields.io/badge/CodeSandBox-100000?style=for-the-badge&logo=codesandbox&logoColor=white"width="85" height="25">
+<img src="https://img.shields.io/badge/CodeSandBox-100000?style=for-the-badge&logo=codesandbox&logoColor=white"width="90" height="25">
  </a></td> 
 <td><a href="https://codepen.io/grienz">
 <img src="https://img.shields.io/badge/CodePen-100000?style=for-the-badge&logo=codepen&logoColor=white"width="80" height="25">
@@ -46,7 +44,6 @@
 </tr>
 </table>
 
-
 ### I improve my skills ⬇ 👨🏻‍💻
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25"/>
@@ -58,7 +55,6 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" width="25" height="25"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="25" height="25" />
 <br></br>
 <details>
 <summary>:bulb:  GitHub Stats</summary>
