@@ -1,4 +1,4 @@
-# Hi!, I'm Guray / "Grienz" 👋
+# Hi! I'm Guray / "Grienz" 👋
 
 <img align="right" alt="avatar"  width="300" height="300" src="/assets/image.jpg">
 
