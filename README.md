@@ -1,6 +1,6 @@
 # grienz
 
-<img align="right" alt="avatar"  width="350" height="350" src="https://github.com/grienz/grienz/tree/master/assets/image.jpg">
+<img align="right" alt="avatar"  width="350" height="350" src="/assets/image.jpg">
 
 ### Hi!, I'm Guray / "Grienz" 👋 `< code />`
 
