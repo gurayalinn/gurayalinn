@@ -12,7 +12,7 @@
 <td><a href="https://stackoverflow.com/users/18206244/grienz">
 <img src="https://img.shields.io/badge/StackOverFlow-important?style=for-the-badge&logo=stackoverflow&logoColor=white"width="90" height="25">
 </a></td>
-<td><a href="https://www.linkedin.com/in/g%C3%BCray-a-302411232/">
+<td><a href="https://www.linkedin.com/in/guray-a-302411232/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"width="80" height="25">
 </a> </td>
 <td><a href="https://www.fiverr.com/grienz">
