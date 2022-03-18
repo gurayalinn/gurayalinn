@@ -1,6 +1,6 @@
 # grienz
 
-<img align="right" alt="avatar"  width="350" height="350" src="/assets/image.jpg">
+<img align="right" alt="avatar"  width="300" height="300" src="/assets/image.jpg">
 
 ### Hi!, I'm Guray / "Grienz" 👋
 
@@ -10,6 +10,7 @@
 
 <table class="center">
 <tr> 
+
 <td><a href="https://stackoverflow.com/users/18206244/grienz">
 <img src="https://img.shields.io/badge/StackOverFlow-important?style=for-the-badge&logo=stackoverflow&logoColor=white"width="90" height="25">
 </a></td>
@@ -44,7 +45,7 @@
 </tr>
 </table>
 
-## I improve my skills ⬇ 👨🏻‍💻
+### I improve my skills ⬇ 👨🏻‍💻
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" width="25" height="25"/>
@@ -55,6 +56,7 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" width="25" height="25"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="25" height="25" />
 <br></br>
 <details>
 <summary>:bulb:  GitHub Stats</summary>
