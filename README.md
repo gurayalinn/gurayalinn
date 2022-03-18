@@ -1,8 +1,6 @@
-# grienz
+# ### Hi!, I'm Guray / "Grienz" 👋
 
 <img align="right" alt="avatar"  width="300" height="300" src="/assets/image.jpg">
-
-### Hi!, I'm Guray / "Grienz" 👋
 
 ![](https://img.shields.io/badge/Web%20Developer-%20%2F%20Freelancer%20%2F%20Cloud%20%2F%20React%20%2F%20NodeJS%20%2F%20Javascript%20%2F%20-aqua)
 
