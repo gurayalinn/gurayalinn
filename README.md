@@ -1,4 +1,4 @@
-# ### Hi!, I'm Guray / "Grienz" 👋
+# Hi!, I'm Guray / "Grienz" 👋
 
 <img align="right" alt="avatar"  width="300" height="300" src="/assets/image.jpg">
 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"width="80" height="25">
 </a> </td>
 <td><a href="https://www.fiverr.com/grienz">
-<img src="https://img.shields.io/badge/Fiverr-green?style=for-the-badge&logo=fiverr&logoColor=white"width="70" height="25">
+<img src="https://img.shields.io/badge/Fiverr-green?style=for-the-badge&logo=fiverr&logoColor=white"width="80" height="25">
 </a></td>
 </tr>
 <tr>
@@ -32,13 +32,13 @@
 </tr>
 <tr>
 <td><a href="https://dev.to/grienz">
-<img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev-to&logoColor=white"width="70" height="25">
+<img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev-to&logoColor=white"width="80" height="25">
 </a></td>
 <td><a href="https://twitter.com/grienz_">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"width="80" height="25">
 </a></td>
 <td><a href="mailto:grienzinfo@protonmail.com">
-<img src="https://img.shields.io/badge/mail-100000?style=for-the-badge&logo=protonmail&logoColor=white"width="70" height="25"></a></td>
+<img src="https://img.shields.io/badge/mail-100000?style=for-the-badge&logo=protonmail&logoColor=white"width="80" height="25"></a></td>
 </tr>
 </tr>
 </table>
