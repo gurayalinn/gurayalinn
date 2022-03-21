@@ -11,7 +11,7 @@
 [![Visitor](https://komarev.com/ghpvc/?username=grienz&label=Profile%20views&color=00FFFF&style=flat)](#)
 
 
-<h3 align="left">Connect Links</h3>
+
 
 <p align="left">
 <a href="https://twitter.com/grienz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="grienz_" height="30" width="40" /></a>
