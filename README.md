@@ -25,7 +25,7 @@
 <a href="https://codesandbox.com/grienz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="grienz" height="30" width="40" /></a>
 <a href="https://codepen.io/grienz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="grienz" height="30" width="40" /></a>
 <a href="https://dev.to/grienz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="grienz" height="30" width="40" /></a>
-<a href="s8c0a1m6g4l5p8s6@grienz.slack.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="grienz" height="30" width="30" /></a>
+<a href="Send to Slack <s8c0a1m6g4l5p8s6@grienz.slack.com>" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="grienz" height="30" width="30" /></a>
 <p><a href="https://www.buymeacoffee.com/grienz"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="120" alt="grienz" /></a></p>
 </p>
 
