@@ -2,7 +2,7 @@
 
 <img align="right" alt="avatar"  width="300" height="300" src="/assets/image.jpg">
 
-![](https://img.shields.io/badge/Web%20Developer-%20%2F%20Freelancer%20%2F%20Cloud%20%2F%20React%20%2F%20NodeJS%20%2F%20Javascript%20%2F%20-aqua)
+![](https://img.shields.io/badge/Web%20Developer-%20%2F%20Freelancer%20%2F%20Cloud%20%2F%20React%20%2F%20NodeJS%20%2FVueJS%20-aqua)
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=grienz.grienz)](#)
 
@@ -55,6 +55,8 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="25" height="25" />
 <br></br>
 <details>
 <summary>:bulb:  GitHub Stats</summary>
