@@ -4,7 +4,7 @@
 
 
 
-<p align="left"><img src="https://img.shields.io/badge/Web%20Developer-%20%2F%20Freelancer%20%2F%20Cloud%20%2F%20React%20%2F%20NodeJS%20%2FVueJS%20-aqua" alt="grienz_" /></p>
+<p align="left"><img src="https://img.shields.io/badge/Web%20Developer-%20%2F%20Freelancer%20%2F%20Cloud%20%2F%20React%20%2F%20NodeJS%20%2F%20VueJS-aqua" alt="grienz_" /></p>
 <img align="right" alt="avatar"  width="200" height="200" src="/assets/image.jpg">
 <p align="left"> <a href="https://twitter.com/grienz_" target="blank"><img src="https://img.shields.io/twitter/follow/grienz_?logo=twitter&style=for-the-badge" alt="grienz_" /></a> </p>
 
