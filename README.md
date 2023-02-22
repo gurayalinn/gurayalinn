@@ -1,7 +1,7 @@
 # Hi, I'm Guray 👋
 
 <p align="left">
-<a href="https://liktr.ee/grienz" target="blank"><img src="https://img.shields.io/badge/Web%20Developer-%20%2F%20Freelancer%20%20-aqua" alt="grienz" />
+<a href="https://codeberg.org/grienz" target="blank"><img src="https://img.shields.io/badge/Web%20Developer-%20%2F%20Freelancer%20%20-aqua" alt="grienz" />
 </p>
 <p align="left">
 <a href="https://twitter.com/grienzdev" target="blank"><img src="https://img.shields.io/twitter/follow/grienzdev?logo=twitter&style=for-the-badge" alt="grienzdev" /></a>
