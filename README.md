@@ -1,7 +1,6 @@
 # Hi, I'm Guray 👋
 
 <p align="left"><img src="https://img.shields.io/badge/Web%20Developer-%20%2F%20Freelancer%20%20-aqua" alt="grienz_" /></p>
-<img align="right" alt="avatar"  width="190" height="190" src="./assets/image.jpg">
 <p align="left"> <a href="https://twitter.com/grienzdev" target="blank"><img src="https://img.shields.io/twitter/follow/grienzdev?logo=twitter&style=for-the-badge" alt="grienzdev" /></a> </p>
 
 [![Visitor](https://komarev.com/ghpvc/?username=grienz&label=Profile%20views&color=00FFFF&style=flat)](#)
