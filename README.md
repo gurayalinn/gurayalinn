@@ -1,21 +1,52 @@
 # Hi, I'm Guray 👋
 
 <p align="left">
-<a href="https://codeberg.org/grienz" target="blank"><img src="https://img.shields.io/badge/Web%20Developer-%20%2F%20Freelancer%20%20-aqua" alt="grienz" />
-</p>
-<p align="left">
-<a href="https://twitter.com/grienzdev" target="blank"><img src="https://img.shields.io/twitter/follow/grienzdev?logo=twitter&style=for-the-badge" alt="grienzdev" /></a>
+  <a href="https://twitter.com/grienzdev" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/grienzdev?color=blue&label=%40grienzdev&logo=twitter&logoColor=blue&style=social" alt="grienzdev" />
+  </a>
 </p>
 
-[![Visitor](https://komarev.com/ghpvc/?username=grienz&label=Profile%20views&color=00FFFF&style=flat)](#)
+<a href="#">
+  <img src="https://komarev.com/ghpvc/?username=grienz&style=for-the-badge">
+</a>
 
 # I improve my skills ⬇ 👨🏻‍💻
 
-<p align="left"> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<p align="left">
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/>
+  </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
+  </a> 
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a> 
+
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+       
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+  </a>
+
+<a href="https://opensuse.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" alt="opensuse" width="40" height="40"/>
+  </a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  </a>
+
+<a href="https://digitalocean.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="40" height="40"/>
+  </a>
 </p>
+          
