@@ -7,10 +7,10 @@
 </p>
 
 <a href="#">
-  <img src="https://komarev.com/ghpvc/?username=grienz&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=grienz&style=flat">
 </a>
 
-# I improve my skills ⬇ 👨🏻‍💻
+# I improve my skills ⬇ ⚡
 
 <p align="left">
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
@@ -23,12 +23,12 @@
 
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
-  </a> 
-          
+  </a>
+
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
   </a>
-       
+
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
@@ -45,4 +45,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="40" height="40"/>
   </a>
 </p>
-          
