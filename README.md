@@ -2,6 +2,8 @@
 
 <a href="https://twitter.com/gurayalin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/gurayalin?color=blue&label=%40gurayalin&logo=twitter&logoColor=blue&style=social" alt="gurayalin" /></a>
 
+[![pgp](https://img.shields.io/badge/pgp-0xD14CBBDF576D93C0-313131?style=flat&labelColor=313131&color=161616)](https://github.com/grienz.gpg)
+
 ## I improve my skills ⚡
 
 <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/></a>
